@@ -1,6 +1,10 @@
 ### Hi there 👋
-
+#### ☕ Get in touch
+[![](https://badgen.net/badge/Shmuel%20Raichman/Linkedin/blue)](https://il.linkedin.com/in/shmuel-raichman)
 <!--
+
+[[Smuel](https://badges.greenkeeper.io/smuel1414/smuel1414.svg)](https://github.com/smuel1414/smuel1414/issues?q=label%3Asmuel)
+
 **smuel1414/smuel1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
