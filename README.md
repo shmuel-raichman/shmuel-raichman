@@ -2,6 +2,9 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 ### Get in touch ☕
+
+<br>
+<br>
 [![](https://badgen.net/badge/Shmuel%20Raichman/Linkedin/blue)](https://il.linkedin.com/in/shmuel-raichman) <br>
 [![](https://badgen.net/badge/Shmuel%20Raichman/stackoverflow/orange)](https://stackoverflow.com/story/shmuel-raichman)
 
