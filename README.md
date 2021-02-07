@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smuel1414&layout=compact&theme=blueberry"/> -->
+
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### ☕ Get in touch
 [![](https://badgen.net/badge/Shmuel%20Raichman/Linkedin/blue)](https://il.linkedin.com/in/shmuel-raichman) <br>
 [![](https://badgen.net/badge/Shmuel%20Raichman/stackoverflow/orange)](https://stackoverflow.com/story/shmuel-raichman)
@@ -19,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👋
 -->
