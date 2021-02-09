@@ -5,8 +5,9 @@
 #### Get in touch ☕:
 
 [![](https://badgen.net/badge/Shmuel%20Raichman/Linkedin/blue)](https://il.linkedin.com/in/shmuel-raichman) <br><br>
-[![](https://badgen.net/badge/Shmuel%20Raichman/stackoverflow/orange)](https://stackoverflow.com/users/9202256/shmuel)
 <a href="https://stackoverflow.com/users/9202256/shmuel"><img src="https://stackexchange.com/users/flair/12661572.png?theme=clean" width="208" height="58" alt="profile for Shmuel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shmuel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+[![](https://badgen.net/badge/Shmuel%20Raichman/stackoverflow/orange)](https://stackoverflow.com/users/9202256/shmuel)
+
 
 <!--
 [![](https://badgen.net/badge/Shmuel%20Raichman/Linkedin/blue)](https://il.linkedin.com/in/shmuel-raichman) 
