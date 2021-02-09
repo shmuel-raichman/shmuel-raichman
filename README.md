@@ -4,10 +4,17 @@
 
 #### Get in touch ☕:
 
-[![](https://badgen.net/badge/Shmuel%20Raichman/Linkedin/blue)](https://il.linkedin.com/in/shmuel-raichman) <br>
+[![](https://badgen.net/badge/Shmuel%20Raichman/Linkedin/blue)](https://il.linkedin.com/in/shmuel-raichman) 
+[![](https://static-exp1.licdn.com/scds/common/u/images/logos/linkedin/logo_linkedin_93x21_v2.png)](https://il.linkedin.com/in/shmuel-raichman) <br><br>
 [![](https://badgen.net/badge/Shmuel%20Raichman/stackoverflow/orange)](https://stackoverflow.com/users/9202256/shmuel)
-
 <a href="https://stackoverflow.com/users/9202256/shmuel"><img src="https://stackexchange.com/users/flair/12661572.png?theme=clean" width="208" height="58" alt="profile for Shmuel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shmuel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+<!--
+[![](https://badgen.net/badge/Shmuel%20Raichman/Linkedin/blue)](https://il.linkedin.com/in/shmuel-raichman) 
+ <a href="https://il.linkedin.com/in/shmuel-raichman?trk=profile-badge-cta" class="LI-view-profile">View profile</a>
+  <img src="https://static-exp1.licdn.com/scds/common/u/images/logos/linkedin/logo_linkedin_93x21_v2.png" alt="LinkedIn" class="LI-icon">
+ </span> 
+-->
 
 <!--
 
