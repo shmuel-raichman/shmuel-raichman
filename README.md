@@ -9,6 +9,8 @@
 [![](https://badgen.net/badge/Shmuel%20Raichman/stackoverflow/orange)](https://stackoverflow.com/users/9202256/shmuel)
 
 
+[Here are my forked projects.](https://github.com/shmuel-forks)
+
 <!--
 [![](https://badgen.net/badge/Shmuel%20Raichman/Linkedin/blue)](https://il.linkedin.com/in/shmuel-raichman) 
  <a href="https://il.linkedin.com/in/shmuel-raichman?trk=profile-badge-cta" class="LI-view-profile">View profile</a>
